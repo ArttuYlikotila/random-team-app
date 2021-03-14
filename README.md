@@ -2,7 +2,7 @@
 
 This React SPA-application loads 20 random fake person profiles
 from the Random User API. After profiles have been loaded, user
-can divide the persons to two evenly sized randomized teams.
+can divide the persons to two evenly sized random teams.
 
 This app is made with Create React App.
 
@@ -36,7 +36,7 @@ You need a local installation of the app on your computer.
 
 After the tests have ran, you can terminate the job by pressing `control + c`
 
-> To get test coverage report:
+#### To get test coverage report:
 
 1. Open a terminal in the root directory of the repository and run command `npm run coverage`
 
@@ -54,7 +54,7 @@ For end 2 end tests with Cypress you need two terminals open at the same time. O
 
 New browser will open where the tests will be ran. After the tests you can close the two previously openeded windows to stop Cypress running.
 
-> To run e2e test in terminal:
+#### To run e2e test in terminal:
 
 1. Open a terminal in the root directory of the repository and run command `npm start` to start the app
 
