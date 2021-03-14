@@ -46,6 +46,8 @@ After the tests have ran, you can terminate the job by pressing `control + c`
 
 For end 2 end tests with Cypress you need two terminals open at the same time. One starts the app and the another runs Cypress.
 
+#### To run e2e test in browser:
+
 1. Open a terminal in the root directory of the repository and run command `npm start` to start the app
 
 2. Open another terminal in the root directory of the repository and run command `npm run cypress:open`
