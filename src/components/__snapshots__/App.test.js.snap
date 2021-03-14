@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App component Integration test of App component 1`] = `
+<div
+  class="App"
+  data-testid="App"
+>
+  <div
+    class="pt-3 pb-3 mb-5 shadow"
+  >
+    <h1>
+      Random Team App
+    </h1>
+  </div>
+  <div
+    class="text-center mt-4 w-100"
+  >
+    <div
+      class="spinner-border"
+      role="status"
+    />
+  </div>
+</div>
+`;

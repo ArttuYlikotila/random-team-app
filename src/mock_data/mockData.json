@@ -1,0 +1,19 @@
+{ "results": [
+    {
+      "email": "mockMail",
+      "name": { "first": "mockFirst", "last": "mockLast"}
+    },
+    { 
+      "email": "mockMail2",
+      "name": { "first": "mockFirst2", "last": "mockLast2"}
+    },
+    {
+      "email": "mockMail3",
+      "name": { "first": "mockFirst3", "last": "mockLast3"}
+    },
+    { 
+      "email": "mockMail4",
+      "name": { "first": "mockFirst4", "last": "mockLast4"}
+    }
+  ]
+}

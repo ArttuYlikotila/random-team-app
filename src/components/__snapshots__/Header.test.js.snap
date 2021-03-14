@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header component Renders correctly 1`] = `
+<h1>
+  Random Team App
+</h1>
+`;
